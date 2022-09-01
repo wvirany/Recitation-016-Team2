@@ -1,9 +1,9 @@
-# Recitation-016-Team-2
+# Recitation-016-Team2
 
-Wesley Allen
+Wesley Allen - weal2937
 
-James Hautekeete
+James Hautekeete - jaha5099
 
-Dylan Eilber
+Dylan Eilber - DylanE415
 
-Walter Virany
+Walter Virany - wvirany
