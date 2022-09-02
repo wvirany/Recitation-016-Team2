@@ -1,4 +1,4 @@
-# Recitation-016-Team2
+# Recitation-016-Team-2
 
 Wesley Allen - weal2937
 
