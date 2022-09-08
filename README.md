@@ -1,5 +1,7 @@
 # Recitation-016-Team-2
 
+Project Team Members:
+
 Wesley Allen - weal2937
 
 James Hautekeete - jaha5099
