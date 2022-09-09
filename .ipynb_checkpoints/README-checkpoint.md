@@ -10,10 +10,7 @@ Dylan Eilber - DylanE415
 Walter Virany - wvirany
 
 Pankaj Behera - PankajBehera3647
-hello
 
-<<<<<<< HEAD
+
 james made this commit
-=======
 MeRgE cOnFlIcT
->>>>>>> main
