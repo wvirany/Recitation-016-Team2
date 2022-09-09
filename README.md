@@ -6,8 +6,11 @@ Project Team Members:
 Wesley Allen - weal2937
 
 Dylan Eilber - DylanE415
+James Hautekeete - jaha5099
 
-Walter Virany - wvirany
+Dylan Eilber --- DylanE415
+
+Walter Virany  - - - wvirany
 
 Pankaj Behera - PankajBehera3647
 
@@ -17,4 +20,6 @@ james made this commit
 
 
 
+
+New Change - Merge Conflict
 
