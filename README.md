@@ -1,6 +1,6 @@
 # Recitation-016-Team-2
 
-The Project Team Members:
+Project Team Members:
 
 Wesley Allen - weal2937
 
