@@ -3,7 +3,7 @@ James Hautekeete - jaha5099
 
 Project Team Members:
 
-Wesley Allen - weal2937
+Wesley Allen --- weal2937
 
 Dylan Eilber - DylanE415
 James Hautekeete - jaha5099
