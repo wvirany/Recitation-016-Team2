@@ -2,18 +2,12 @@
 James Hautekeete - jaha5099
 
 Project Team Members:
-Pankaj Behera - PankajBehera3647
 
 Wesley Allen - weal2937
 
-
-
 Dylan Eilber - DylanE415
-James Hautekeete - jaha5099
 
-Dylan Eilber --- DylanE415
-
-Walter Virany  - - - wvirany
+Walter Virany - wvirany
 
 Pankaj Behera - PankajBehera3647
 
@@ -23,6 +17,4 @@ james made this commit
 
 
 
-
-New Change - Merge Conflict
 
